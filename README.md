@@ -28,5 +28,4 @@ Este projeto consiste na implementação de um sistema de login e cadastro para 
 ### Instalação
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone link-repositorio-aqui
